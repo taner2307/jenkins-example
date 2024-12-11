@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsExampleApplication {
 
 	public static void main(String[] args) {
+		System.out.println("deneme");
 		SpringApplication.run(JenkinsExampleApplication.class, args);
 	}
 
